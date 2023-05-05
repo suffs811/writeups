@@ -150,11 +150,11 @@ go to 'the-terminator' directory (/home/alice) and run:
 
 ![IMG-17](https://github.com/suffs811/writeups/blob/main/terminator-img/17.png)
 
-the terminator will prompt you for your local username and password. if you are using the tryhackme attack box, your user should be 'root' and password is the password your just created for root.
+the terminator will prompt you for your local username and password. if you are using the tryhackme attack box, your user should be 'root' and password is the password you just created for root.
 
 ![IMG-18](https://github.com/suffs811/writeups/blob/main/terminator-img/18.png)
 
-success! we have established persistence by creating a new root-privileged user and creating a reverse shell callback that will send us a root shell every 5 minutes
+success! we have established persistence by creating a new root-privileged user and creating a reverse shell callback that will send us a root shell every minute
 
 ![IMG-19](https://github.com/suffs811/writeups/blob/main/terminator-img/19.png)
 
