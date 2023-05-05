@@ -125,6 +125,8 @@ IMG-15
 
 **NOTE: you now have escalated priviliges but not a full root shell (if you run 'id' you will see your UID is still alice). look around the system* to find anything that could be exploited to gain a root shell (see /root)**
 
+get that root flag!
+
 IMG-16 
 
 ## persistence/data exfiltration
