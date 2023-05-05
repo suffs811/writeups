@@ -183,7 +183,7 @@ IMG-22
 
 and that's it! you just went through the penetration testing cycle from boot to root to report using the terminator.
 
-to learn more about how the terminator works, check out the GitHub [here]([url](https://github.com/suffs811/the
+to learn more about how the terminator works, check out the GitHub [here](https://github.com/suffs811/the-terminator)
 
 
 thanks for using the terminator, happy hacking!
