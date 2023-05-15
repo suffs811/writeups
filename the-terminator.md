@@ -99,7 +99,7 @@ before we escalate privileges, we first need to get 'the terminator' onto the ta
 - scp the file to the remote box
 - copy pasta the terminator's source code into a new file on the target box
 
-let's make a python web to get the file over.
+let's make a python web server to get the file over.
 
 on your local machine, open a new terminal tab and go to 'the-terminator' directory where terminator.py is. then run the following to start a python web server:
 
